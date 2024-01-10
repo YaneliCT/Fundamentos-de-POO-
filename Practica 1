@@ -1,0 +1,10 @@
+public class Main {
+    public static void main(String[] args) {
+        //Practica No.1   Grupo 5I
+        //Objectivo: Mi primer programa
+        //Integrantes: Miriam Jiminez Hernandéz
+        //Janely Cuamatzi Tlilayatzi
+        //Rubi Cuatecontzi Cuatecontzi
+        //Nely Pichon Rivera
+        // Daniel Luna Pérez
+        System.out.printf("Hola bienvenido a mi mundo de JAVA !");
